@@ -1,4 +1,4 @@
-# Hi, I'm Barath 👋  
+# Hi, I'm Barath Arjun 👋  
 
 🚀 Full Stack Developer (MERN) | Backend-focused | Building scalable and real-time systems  
 
