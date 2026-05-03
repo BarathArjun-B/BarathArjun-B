@@ -62,7 +62,7 @@
 
 ---
 
-## 🔥 Contribution Graph  
+##  Contribution Graph  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarathArjun-B&theme=github-dark)](https://github.com/BarathArjun-B)
 
 ---
