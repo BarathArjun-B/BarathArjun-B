@@ -1,6 +1,6 @@
 
 
---# Hi, I'm Barath Arjun 👋
+ Hi, I'm Barath Arjun 👋
 
 Full Stack Developer (MERN) focused on building scalable backend systems and real-world applications.
 
@@ -33,21 +33,9 @@ Full Stack Developer (MERN) focused on building scalable backend systems and rea
 
 ## 📫 Connect With Me
 
-* LinkedIn
-* Email
+* https://github.com/BarathArjun-B
+* baratharjunb@gmail.com
 
 ---
 
-**BarathArjun-B/BarathArjun-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
